@@ -1,0 +1,539 @@
+.ramka
+{
+width:100%;
+height:100%;	
+background-color:black;
+}
+.glownypanel
+{
+width:1300px;
+height:700px;
+background-color:black;
+margin:auto;	
+background-image:url(spa2.jpg);
+}
+.lewypanel
+{
+width:250px;
+height:600px;
+position:absolute;
+margin-left:50px;
+margin-top:50px;
+}
+.lewypanel1
+{
+width:200px;
+height:120px;
+background-color:blue;
+margin:auto;
+margin-top:25px;
+background-image:url(logo6.jpg);
+}
+.lewypanel1:hover
+{
+ box-shadow: inset 0 0 0 5px rgb(230, 184, 0);
+}
+.lewypanelprzezroczysty
+{
+width:250px;
+height:600px;
+background-color:black;
+position:absolute;
+margin-left:50px;
+margin-top:50px;
+opacity:0.8;
+}
+.lewypanel2
+{
+width:200px;
+height:430px;
+background-color:;
+margin:auto;	
+}
+.p1
+{
+color:gray;
+margin-top:0px;
+text-align:center;
+font-family: "Courier New";	
+font-size:17;
+font-weight:bold;
+}
+a
+{
+text-decoration:none;
+}
+.p2
+{
+color:white;
+text-align:center;
+font-family: "Courier New";	
+font-size:25;
+}
+.p2:hover
+{
+color:rgb(230, 184, 0);
+}
+.p3
+{
+color:white;
+text-align:center;
+font-family: "Courier New";	
+font-size:25;
+margin-top:0px;
+}
+.p3:hover
+{
+color:rgb(230, 184, 0);
+}
+.p4
+{
+color:white;
+text-align:right;
+font-family: "Courier New";	
+font-size:10;
+opacity:0.7;
+}
+.p5
+{
+margin-top:-7px;
+color:white;
+text-align:right;
+font-family: "Courier New";	
+font-size:10;
+opacity:0.7;
+}
+.prawypanelprzezroczysty
+{
+float:left;
+height:600px;
+width:950px;
+background-color:gray;	
+position:absolute;
+margin-left:300px;
+margin-top:50px;
+opacity:0.8;
+}
+.prawypanel
+{
+float:left;
+height:600px;
+width:950px;
+position:absolute;
+margin-left:300px;
+margin-top:50px;
+}
+.prawypanel1
+{
+height:500px;
+width:600px;
+margin:auto;
+margin-top:50px;
+}
+.prawypanel1_1
+{
+height:250px;
+width:300px;
+float:left;
+}
+.prawypanel1_2
+{
+height:250px;
+width:300px;
+float:left;
+}
+.prawypanel1_3
+{
+height:250px;
+width:300px;
+float:left;
+}
+.prawypanel1_4
+{
+height:250px;
+width:300px;
+float:left;
+}
+.prawypanel1_1_1
+{
+height:200px;
+width:250px;
+background-image:url(masaz1.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanel1_2_1
+{
+height:200px;
+width:250px;
+background-image:url(masaz2.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanel1_3_1
+{
+height:200px;
+width:250px;
+background-image:url(masaz3.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanel1_4_1
+{
+height:200px;
+width:250px;
+background-image:url(masaz4.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanel1_1_1_1
+{
+height:100px;
+width:250px;
+background-color:yellow;
+margin:auto;
+position:absolute;
+margin-top:100px;
+opacity:0.0;
+-webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.prawypanel1_1_1_1:hover
+{
+height:100px;
+width:250px;
+background-color:rgb(230, 184, 0);
+margin:auto;
+margin-top:100px;
+opacity:0.8;
+-webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.span1
+{
+text-align:center;
+display:block;
+font-family: "Courier New";	
+font-size:25;
+vertical-align:middle;
+
+}
+.prawypanel1_2_2_1
+{
+height:100px;
+width:250px;
+background-color:yellow;
+margin:auto;
+position:absolute;
+margin-top:100px;
+opacity:0.0;
+-webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.prawypanel1_2_2_1:hover
+{
+height:100px;
+width:250px;
+background-color:rgb(230, 184, 0);
+margin:auto;
+margin-top:100px;
+opacity:0.8;
+-webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.prawypanel1_3_3_1
+{
+height:100px;
+width:250px;
+background-color:yellow;
+margin:auto;
+position:absolute;
+margin-top:100px;
+opacity:0.0;
+-webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.prawypanel1_3_3_1:hover
+{
+height:100px;
+width:250px;
+background-color:rgb(230, 184, 0);
+margin:auto;
+margin-top:100px;
+opacity:0.8;
+-webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.prawypanel1_4_4_1
+{
+height:100px;
+width:250px;
+background-color:yellow;
+margin:auto;
+position:absolute;
+margin-top:100px;
+opacity:0.0;
+-webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.prawypanel1_4_4_1:hover
+{
+height:100px;
+width:250px;
+background-color:rgb(230, 184, 0);
+margin:auto;
+margin-top:100px;
+opacity:0.8;
+-webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.prawypanel1_1_1_1:hover a {
+    text-decoration: none;
+}
+a span
+{
+ text-decoration: none;
+ color:black;
+}
+.prawypanelmasazprzezroczysty
+{
+height:500px;
+width:600px;
+margin:auto;
+margin-top:50px;
+background-color:black;
+opacity:0.8;
+}
+.prawypanelmasaz
+{
+height:500px;
+width:600px;
+margin:auto;
+position:absolute;
+margin-top:-500px;
+margin-left:175px;
+}
+.p6
+{
+color:white;
+text-align:center;
+font-family: "Courier New";	
+font-size:25;
+}
+ul
+{
+color:white;
+text-align:center;
+font-family: "Courier New";	
+font-size:20;
+}
+.p7
+{
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:20;
+font-weight:bold;
+}
+.powrot
+{
+position:absolute;
+margin-left:0px;
+margin-top:0px;	
+}
+.prawypanelzabiegu1_1_1
+{
+height:200px;
+width:250px;
+background-image:url(zabieg1.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanelzabiegu1_2_1
+{
+height:200px;
+width:250px;
+background-image:url(zabieg2.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanelzabiegu1_3_1
+{
+height:200px;
+width:250px;
+background-image:url(zabieg3.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanelzabiegu1_4_1
+{
+height:200px;
+width:250px;
+background-image:url(zabieg4.jpg);
+margin:auto;
+margin-top:25px;
+}
+.prawypanelzabiegprzezroczysty
+{
+height:500px;
+width:820px;
+margin:auto;
+margin-top:50px;
+background-color:black;
+opacity:0.8;
+}
+.prawypanelzabieg
+{
+height:500px;
+width:820px;
+margin:auto;
+position:absolute;
+margin-top:-500px;
+margin-left:65px;
+}
+.p8
+{
+
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:30;
+font-weight:bold;
+}
+.p9
+{
+color:white;
+text-align:center;
+font-family: "Courier New";	
+font-size:18;
+margin-right:250px;
+margin-left:5px;
+}
+.p10
+{
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:40;
+font-weight:bold;
+}
+.p11
+{
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:40;
+font-weight:bold;
+position:absolute;
+margin-top:0px;
+margin-left:42%;
+}
+.p12
+{
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:40;
+font-weight:bold;
+position:absolute;
+margin-top:0px;
+margin-left:41%;
+}
+.p13
+{
+position:absolute;
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:40;
+font-weight:bold;
+margin-left:39%;
+margin-top:0px;
+}
+.p14
+{
+color:white;
+font-family: "Courier New";	
+font-size:18;
+}
+.p15
+{
+color:rgb(230, 184, 0);
+text-align:center;
+font-family: "Courier New";	
+font-size:40;
+font-weight:bold;
+position:absolute;
+margin-top:0px;
+margin-left:40%;
+}
+.magic_slim_zdjecie
+{
+width:200px;
+height:250px;
+background-color:white;
+position:absolute;
+margin-top:-138px;
+margin-left:600px;	
+background-image:url(magic_slim.jpg);
+}
+.elektrostymulacja_zdjecie
+{
+width:200px;
+height:250px;
+background-color:white;
+position:absolute;
+margin-top:-200px;
+margin-left:600px;	
+background-image:url(elektrostymulacja.jpg);
+}
+.elektrosauna_zdjecie
+{
+width:200px;
+height:250px;
+background-color:white;
+position:absolute;
+margin-top:-255px;
+margin-left:600px;	
+background-image:url(elektrosauna.jpg);
+}
+.therma_slim_zdjecie
+{
+width:200px;
+height:250px;
+background-color:white;
+position:absolute;
+margin-top:-160px;
+margin-left:600px;	
+background-image:url(therma_slim.jpg);
+}
+.form1
+{
+text-align:center;	
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float:left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.galeria
+{
+position:absolute;
+margin-top:160px;
+margin-left:90px;	
+}
